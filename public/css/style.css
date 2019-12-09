@@ -1,0 +1,34 @@
+.profile-image {
+  width: 100px;
+  height: 100px;
+}
+
+@media (min-width: 992px) {
+  .profile-image {
+    width: 140px;
+    height: 140px;
+  }
+}
+.text-dark {
+  color: black;
+}
+.card-link a {
+ text-decoration: none;
+}
+
+.container-narrow {
+  max-width: 960px;
+}
+
+.card-bg:hover {
+  background: #f9f9f9;
+}
+
+textarea {
+  resize: none;
+}
+
+.learning-section {
+  min-height: 600px;
+
+}
