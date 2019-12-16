@@ -11,7 +11,7 @@
 ## Installation
 Clone the repository
 ```bash
-git clone git@github.com:pnhuyduy/flashcards.git
+git clone https://github.com/pnhuyduy/flashcards
 ```
 Switch to the repo folder
 ```bash
